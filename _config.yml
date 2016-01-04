@@ -1,5 +1,6 @@
 url: https://jekyll-theme.github.io
 baseurl: /agency-jekyll-theme/
+host: localhost
 
 # Site settings
 title: 邓熠瑄小朋友
@@ -34,17 +35,6 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
